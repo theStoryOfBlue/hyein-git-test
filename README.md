@@ -1,5 +1,6 @@
 # hyein-git-test
 
-깃 테스트 입니다.
+깃털 테스트 입니다. 끼룩끼룩~
 
 printf("hello")
+님 왜 ;안써요? 
